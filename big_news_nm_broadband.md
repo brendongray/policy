@@ -5,8 +5,7 @@ Currently, the state has an early 1900s-era constitutional provision that preven
 
 Much of New Mexico's most rural regions don't have the population density to make broadband infrastructure profitable for private providers. States with similar demographic contexts have turned to grants to overcome this. But New Mexico's restrictive anti-donation provision prevented the state from making those strategic investments. As a result, the state has the lowest rural connectivity in the US. The FCC estimates that a staggering 42% of people in rural NM don't have access to even basic internet speeds.
 
-<iframe title="New Mexicans without internet access " aria-label="Map" id="datawrapper-chart-1z1H7" src="https://datawrapper.dwcdn.net/1z1H7/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="789"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+<iframe title="New Mexicans without internet access " aria-label="Map" id="datawrapper-chart-1z1H7" src="https://datawrapper.dwcdn.net/1z1H7/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="789"></iframe>
   
   ---
 
