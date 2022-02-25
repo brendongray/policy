@@ -34,34 +34,44 @@ That's it for my cursory overview of the changing broadband landscape in New Mex
   
 FCC Broadband Deployment Report 2021
 Link
+  
 Broadband Needs in Agriculture & the Rural Farmer
 Link
+  
 Built by E-Rate: A Case Study of Two Tribally-Owned Fiber Networks and the Role of Libraries in Making it Happen
 Keyword: AmericanLibraryAssociation2020Broadband
 Business Needs for Broadband Speed 2021
 Author: GAO
 Link
+  
 Community-Owned Fiber Networks: Value Leaders in America
 Permalink: Here
+  
 Local Providers Offer the Nation's Best Internet Access in Rural ND
 Authors: ILSR, Community Networks
 Link
+  
 Online Learning Equity Gap with Case Studies
 Author: New America
 Link
+  
 Middle Mile Broadband Provision and "Supply-side" Policies
 Link
 URL
+  
 Mapping Broadband Across the US 2021
 Author: Next Century Cities
 Link
+  
 The Issue of Broadband in America
 Author: Sean Gonsalves, ILSR
 Link
+  
 Pew's Mobile Technology and Home Broadband 2021
 Author: Andrew Perrin (Pew)
 URL
 Annotation
+  
 Putting State Broadband Funds to Work: Best Practices (2021)
 Author: Benton Institute
 Link
