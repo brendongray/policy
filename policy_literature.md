@@ -1,3 +1,14 @@
+title: "Policy reading reference list"
+author: "Brendon Gray"
+output:
+  html_document:
+    theme: cerulean
+    highlight: tango
+    number_sections: yes
+    toc: yes
+    toc_depth: 2
+    toc_float: yes
+    
 # Broadband
 **FCC Broadband Deployment Report 2021**
 Keyword: FCCBroadbandDeployment2021
