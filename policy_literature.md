@@ -7,11 +7,13 @@ Keyword: FCCBroadbandDeployment2021
 
 [Link](https://drive.google.com/file/d/1If0MEOfCsDtKpviHDzSTM4h5Eh7LozCT/view?usp=sharing)
 
+
 **Broadband Needs in Agriculture & the Rural Farmer**
 
 Keyword: USDABroadbandAg
 
 [Link](https://drive.google.com/file/d/15vnOwg93CTrEBAmQVPj_lJWGt2c-Ah6z/view?usp=sharing)
+
 
 **Activity Centers are the building blocks of inclusive regional economies**
 
@@ -23,13 +25,16 @@ Keyword: LohLove2021ActivityCenters
 
 [Annotation](https://docs.google.com/document/d/1RNwZxytMtJg1Oxyv7YwgdIEC58pOk3sUU5K2H029Oz8/edit?usp=sharing)
 
+
 **Built by E-Rate: A Case Study of Two Tribally-Owned Fiber Networks and the Role of Libraries in Making it Happen**
 
 Keyword: AmericanLibraryAssociation2020Broadband
 
+
 **Broadband Availability and Access in Rural Pennsylvania**
 
 Keyword: RuralPennsylvaniaCenter2019Broadband
+
 
 **Business Needs for Broadband Speed 2021**
 
@@ -39,11 +44,13 @@ Keyword: GAOBroadbandSpeeds2021
 
 [Link](https://drive.google.com/file/d/1OgUNBx-cd47poed_T60qx0UJHD0l5-rY/view?usp=sharing)
 
+
 **Community-Owned Fiber Networks: Value Leaders in America**
 
 Keyword: TalbotHessekielKehl2017Broadband
 
 Permalink: [Here](http://nrs.harvard.edu/urn-3:HUL.InstRepos:34623859)
+
 
 **Local Providers Offer the Nation’s Best Internet Access in Rural ND**
 
