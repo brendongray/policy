@@ -5,7 +5,7 @@
 
 Keyword: FCCBroadbandDeployment2021
 
-[Link](https://drive.google.com/file/d/1If0MEOfCsDtKpviHDzSTM4h5Eh7LozCT/view?usp=sharing)
+[Link](https://github.com/brendongray/policy/blob/4da5d19210271831d6d5a3d4adef31781ccbb82a/FCCBroadbandDeployment2021.pdf)
 
 
 **Broadband Needs in Agriculture & the Rural Farmer**
